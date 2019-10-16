@@ -4,3 +4,5 @@
 - Transfer Learning using YOLO-v3
 - Model training, evaluation, image/video inference
 - Referenced by 'ImageAI' official site: https://github.com/OlafenwaMoses/ImageAI/
+
+- Improvements: model training using RetinaNet pretrained model
